@@ -1,11 +1,9 @@
-+---------------------------------------------------------------------+
-#| Hi, I'm Matías Estacio                                             |
-+---------------------------------------------------------------------+
-| - 🎨 I am interested in learning about Linux                        |
-| - 🐍 I am currently learning Python                                 |
-| - 💪 I'm looking to collaborate on development teams using Python.  |
-| - 📫 You can write to my email devmfes10@gmail.com                  |
-+---------------------------------------------------------------------+
+# Hi, I'm Matías Estacio
+
+- 🎨 I am interested in learning about Linux.
+- 🐍 I am currently learning Python.
+- 💪 I would like to collaborate in development teams using Python.
+- 📫 You can write to my email devmfes10@gmail.com.
 
 
 <!---
