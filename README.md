@@ -1,5 +1,5 @@
 +---------------------------------------------------------------------+
-| # Hi, I'm Matías Estacio                                            |
+#| Hi, I'm Matías Estacio                                             |
 +---------------------------------------------------------------------+
 | - 🎨 I am interested in learning about Linux                        |
 | - 🐍 I am currently learning Python                                 |
