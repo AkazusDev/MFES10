@@ -1,6 +1,6 @@
-# ¡Hola! Soy Matías Estacio
+# ¡Hola! 👋 Soy Matías Estacio 🤖
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
 ¡Hola! Soy **Matías Estacio**, un apasionado del desarrollo de software y la tecnología. Me encanta explorar nuevas tecnologías y aprender constantemente para mejorar mis habilidades como desarrollador de software.
 
@@ -8,7 +8,7 @@ Con experiencia en desarrollo backend en Python. Me gusta trabajar en proyectos 
 
 Siempre estoy buscando oportunidades para crecer profesionalmente y colaborar en proyectos interesantes. Si tienes alguna idea o simplemente quieres conectarte, ¡no dudes en contactarme!
 
-## Contacto
+## 📫 Contacto
 Si tienes alguna pregunta, idea o simplemente quieres charlar, no dudes en contactarme a través de los siguientes enlaces:
 
 [![LinkedIn Matías Estacio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mat%C3%ADas-fabrizio-estacio-sagastegui-74604223a/)
@@ -17,7 +17,7 @@ Si tienes alguna pregunta, idea o simplemente quieres charlar, no dudes en conta
 [![Twitter MFES_10](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MFES_10)
 [![Instagram MFES_10](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mfes_10/)
 
-## Tecnologías
+## ⚡ Tecnologías
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
