@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mí
 
-¡Hola! Soy **Matías Estacio**, un apasionado del desarrollo de software y la tecnología. Me encanta explorar nuevas tecnologías y aprender constantemente para mejorar mis habilidades como desarrollador de software.
+¡Hola! Soy **Matías Estacio**, un profesional en Ingeniería de Software y un apasionado de la tecnología. Me encanta explorar nuevas tecnologías y aprender constantemente para mejorar mis habilidades como desarrollador de software.
 
 Con experiencia en desarrollo backend en Python. Me gusta trabajar en proyectos desafiantes que me permitan utilizar mis habilidades y conocimientos para crear soluciones innovadoras. Disfruto especialmente colaborando en equipos multidisciplinarios donde puedo aprender de otros y aportar mi experiencia.
 
